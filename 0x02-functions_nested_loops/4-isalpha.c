@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -10,6 +9,3 @@ int _isalpha(int c)
 {
 	return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'));
 }
-=======
-
->>>>>>> 634ec663aed79b3d77682c99e371395b6a513193
