@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -25,3 +26,6 @@ void print_alphabet_x10(void)
 		i++;
 	}
 }
+=======
+
+>>>>>>> 634ec663aed79b3d77682c99e371395b6a513193

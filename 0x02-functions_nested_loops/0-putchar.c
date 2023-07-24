@@ -1,10 +1,16 @@
 #include "main.h"
 /**
  * main - print _putchar
+<<<<<<< HEAD
  * written by stella
  * Return: 0
 */
 
+=======
+ * is written by stella
+ * Return: 0
+*/
+>>>>>>> 634ec663aed79b3d77682c99e371395b6a513193
 int main(void)
 {
 _putchar('_');

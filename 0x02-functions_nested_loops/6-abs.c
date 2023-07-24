@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -13,3 +14,6 @@ int _abs(int n)
 	}
 	return (-n);
 }
+=======
+
+>>>>>>> 634ec663aed79b3d77682c99e371395b6a513193

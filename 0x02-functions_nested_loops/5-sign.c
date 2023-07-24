@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -24,3 +25,6 @@ int print_sign(int n)
 	}
 		return (-1);
 }
+=======
+
+>>>>>>> 634ec663aed79b3d77682c99e371395b6a513193
