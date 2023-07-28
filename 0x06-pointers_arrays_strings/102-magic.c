@@ -1,4 +1,12 @@
 #include <stdio.h>
+
+/**
+ * main - Enty point
+ * magic array
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int n;
