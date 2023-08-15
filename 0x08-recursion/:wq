@@ -1,0 +1,14 @@
+#include "main.h"
+/**
+ * _puts_recursion - acts like puts();
+ * @s: input
+ * Return: returns 0 if successful
+*/
+void _puts_recursion(char *s)
+{
+	if (*s)
+	{
+		_print_rev_recursion(s + 1);
+		_putchar(*s);
+	}
+}
