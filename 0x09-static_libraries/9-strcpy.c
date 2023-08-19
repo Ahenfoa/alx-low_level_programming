@@ -13,7 +13,7 @@ while (*(src + p) != '\0')
 {
 p++;
 }
-for (; x < p ; f++)
+for (; p < f ; p++)
 {
 dest[f] = src[f];
 }
